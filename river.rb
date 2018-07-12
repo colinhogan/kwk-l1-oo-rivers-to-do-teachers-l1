@@ -18,6 +18,10 @@ class River
     @length = length
   end 
   
+  def length
+    @length 
+  end 
+  
   def flood 
     
   end 
