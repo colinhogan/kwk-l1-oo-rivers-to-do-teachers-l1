@@ -2,7 +2,8 @@
 class River 
   
   def initialize(name)
-    @name = name 
+    @name = name
+    @length 
     
   end 
   
@@ -12,6 +13,10 @@ class River
   
   def name 
     @name 
+  end 
+  
+  def length=(length)
+    @length = length
   end 
   
   def flood 
