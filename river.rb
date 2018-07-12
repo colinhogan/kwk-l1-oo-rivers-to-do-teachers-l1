@@ -46,3 +46,6 @@ class River
   end 
   
 end 
+
+mississippi = River.new("Mississippi")
+puts mississippi.flood
