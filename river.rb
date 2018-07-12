@@ -3,7 +3,6 @@ class River
   
   def initialize(name)
     @name = name
-    @length 
     
   end 
   
