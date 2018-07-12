@@ -6,6 +6,10 @@ class River
     
   end 
   
+  def name 
+    @name 
+  end 
+  
   def flood 
     
   end 
