@@ -21,7 +21,7 @@ class River
     @countries 
   end 
   
-    def dishcarge=(discharge)
+    def dishcharge=(discharge)
     @discharge = discharge
   end 
   
