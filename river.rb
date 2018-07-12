@@ -21,6 +21,14 @@ class River
     @countries 
   end 
   
+    def dishcarge=(discharge)
+    @discharge = discharge
+  end 
+  
+  def discharge
+    @discharge 
+  end 
+  
   def length=(length)
     @length = length
   end 
