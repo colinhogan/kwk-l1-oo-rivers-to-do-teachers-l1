@@ -48,4 +48,5 @@ class River
 end 
 
 mississippi = River.new("Mississippi")
-mississippi.discharge=()
+mississippi.discharge=(593)
+puts mississippi.flood
