@@ -20,6 +20,7 @@ class River
   def countries
     @countries 
   end 
+  
   def length=(length)
     @length = length
   end 
